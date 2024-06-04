@@ -1,8 +1,10 @@
 # Assignment 4
 
-Greetings and salutations, there are two files:
+Greetings and salutations, there are 4 files:
 - playfair.c
 - transposition.c
+- rsa.py
+- diffie.py
 
 ## Using `playfair.c`
 
@@ -18,6 +20,12 @@ Greetings and salutations, there are two files:
  - The `-g` flag is optional
  - The name `transposition_main` is optional as well, it can be changed to whatever your preference is 🤗
 2. Give the name of the file where the plaintext can be found
+
+## `rsa.py`
+This script imitates the RSA algorithm.
+
+## `diffie.py`
+This scripts imitates the Diffie Hellman exchange.
 
 ### Final notes
 
