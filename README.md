@@ -1,5 +1,3 @@
-# Assignment 4
-
 Greetings and salutations, there are 4 files:
 - playfair.c
 - transposition.c
